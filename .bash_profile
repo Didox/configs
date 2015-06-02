@@ -56,6 +56,9 @@ alias "vejasp= cd ~/projects/vejasp_projetos/vejasp"
 alias "vejario= cd ~/projects/vejasp_projetos/vejario"
 alias "vw= cd ~/projects/vejasp_projetos/vejinhas-widgets"
 alias "structure= cd ~/projects/vejasp_projetos/vejasp/structure"
+alias "sublime= /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl"
+
+
 
 alias "oracle_sql= cd ~/sqldeveloper && ./sqldeveloper.sh "
 
@@ -64,7 +67,6 @@ alias "oracle_sql= cd ~/sqldeveloper && ./sqldeveloper.sh "
 alias "gits= git status"
 
 alias "apt-get= brew"
-
 
 
  
